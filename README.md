@@ -71,6 +71,12 @@ male subscribers have higher likelyhood of bike use
 
 # Additional visualizations are suggested for future analysis
 
+![image](https://user-images.githubusercontent.com/96351897/162663872-a908aa5a-0571-4d3c-aa21-ef31694f9177.png)
+
+
+![image](https://user-images.githubusercontent.com/96351897/162663892-26c1c972-f070-472c-a17d-ac78f427055a.png)
+
+
 
 # Summary:
 
