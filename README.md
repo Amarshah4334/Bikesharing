@@ -93,7 +93,7 @@ Can affect the bike sharing business.
 
 
 # TABLEAU PUBLIC URL: Challenge
-https://public.tableau.com/app/profile/jay7327/viz/NYCBikeChallenge_16496423997560/FINALSTORYREPORT?publish=yes
+[link to dashboard] https://public.tableau.com/app/profile/jay7327/viz/NYCBikeChallenge_16496423997560/Dashboard1?publish=yes
 
 
 
