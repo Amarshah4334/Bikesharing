@@ -5,6 +5,8 @@ __pycache__/
 .csv
 # C extensions
 *.so
+201908-citibike-tripdata.csv
+citibike_201908_indexfree.csv
 
 # Distribution / packaging
 .Python
