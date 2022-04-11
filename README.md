@@ -21,25 +21,35 @@ Add these new visualizations to the two created in this module for your final pr
 
 ![image](https://user-images.githubusercontent.com/96351897/162660271-4a4019f5-2367-4a65-9f20-ddfb1578d6f0.png)
 
+Image shows that in first 30 minutes there is peak bike use
+
 # Checkout Times by Gender
 
 ![image](https://user-images.githubusercontent.com/96351897/162660354-7918e3c7-9daa-4975-8ef5-8f06b37c3794.png)
+
+Males have higher bike use
+
 
 
 # Trips by Weekday for Each Hour
 
 ![image](https://user-images.githubusercontent.com/96351897/162660425-51fab5c8-1674-4fc8-9de0-4251aaaf32f3.png)
 
+bike use is concentrated during 7 am to 9 am and 5pm to 7pm pointing towards commuter times
+
 
 # Trips by Gender (Weekday per Hour) 
 
 ![image](https://user-images.githubusercontent.com/96351897/162660468-c51e746e-6c20-45b1-b8ef-a680efacc691.png)
+
+males have higher bike use
 
 
 # Trips by Gender by Weekday
 
 ![image](https://user-images.githubusercontent.com/96351897/162660514-87c53d5b-9d3e-40a3-b921-e64ae821736b.png)
 
+male subscribers have higher likelyhood of bike use
 
 # August Peak Hours
 
