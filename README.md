@@ -17,6 +17,50 @@ Add these new visualizations to the two created in this module for your final pr
 6. More than 80% are Subscribers, with an ~19% or regular non-subscribers.
 7. Peak hours in August are between 5 to 7 pm
 
+# Checkout times for users
+
+![image](https://user-images.githubusercontent.com/96351897/162660271-4a4019f5-2367-4a65-9f20-ddfb1578d6f0.png)
+
+# Checkout Times by Gender
+
+![image](https://user-images.githubusercontent.com/96351897/162660354-7918e3c7-9daa-4975-8ef5-8f06b37c3794.png)
+
+
+# Trips by Weekday for Each Hour
+
+![image](https://user-images.githubusercontent.com/96351897/162660425-51fab5c8-1674-4fc8-9de0-4251aaaf32f3.png)
+
+
+# Trips by Gender (Weekday per Hour) 
+
+![image](https://user-images.githubusercontent.com/96351897/162660468-c51e746e-6c20-45b1-b8ef-a680efacc691.png)
+
+
+# Trips by Gender by Weekday
+
+![image](https://user-images.githubusercontent.com/96351897/162660514-87c53d5b-9d3e-40a3-b921-e64ae821736b.png)
+
+
+# August Peak Hours
+
+![image](https://user-images.githubusercontent.com/96351897/162660600-dda5b20f-c9af-423e-8f20-247f2ee420dc.png)
+
+# Top Starting Locations
+
+![image](https://user-images.githubusercontent.com/96351897/162660681-4fcfec4b-88f2-4cfb-b1c9-1df6a2811d6d.png)
+
+
+# Top ending Locations
+
+![image](https://user-images.githubusercontent.com/96351897/162660700-ed803da4-2668-4364-a4fc-81923557960f.png)
+
+
+# Module Dashboard
+
+![image](https://user-images.githubusercontent.com/96351897/162660720-ac3efc35-98cf-4594-bd27-e8a1fb2d78c1.png)
+
+
+
 
 # Summary:
 
